@@ -15,6 +15,7 @@ A responsive sidebar navigation menu created using HTML and CSS.
 
 ## Preview
 Click the hamburger icon to open and close the sidebar navigation.
+![Screenshot](screenshot.png)
 
 ## Author
 Asmita Choudhry
